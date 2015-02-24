@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: MyString
+  high: 1.5
+  low: 1.5
+  last: 1.5
+  volume: 1.5
+  buy: 1.5
+  sell: 1.5
+
+two:
+  url: MyString
+  high: 1.5
+  low: 1.5
+  last: 1.5
+  volume: 1.5
+  buy: 1.5
+  sell: 1.5
